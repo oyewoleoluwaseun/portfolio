@@ -6,7 +6,7 @@
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <br />
-    <strong>Site URL:» </strong>
+    <strong>Site URL» </strong>
     <a href="https://oyewoleoluwaseun.github.io"> oyewoleoluwaseun.github.io</a>
     <br />
     <br />
